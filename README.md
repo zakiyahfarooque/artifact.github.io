@@ -58,7 +58,7 @@ international sports events company or association
   <h2>WORK EXPERIENCE</h2>
   Jan 2006 – Current <br>
   MOEMA MARKETING, Sao Paulo BRAZIL<br>
-  <a href="http://www.moemamkt.com.br" target="_blank">http://www.moemamkt.com.br</a><br>
+  <a href="http://www.moemamkt.com.br" target="_blank">visit</a><br>
   Marketing Trainee – Casual (weekends and holidays)<br>
   
   
