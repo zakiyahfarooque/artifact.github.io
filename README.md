@@ -57,7 +57,7 @@ international sports events company or association
   <h2>WORK EXPERIENCE</h2>
   Jan 2006 – Current <br>
   MOEMA MARKETING, Sao Paulo BRAZIL<br>
-  <a href="http://www.moemamkt.com.br">http://www.moemamkt.com.br</a><br>
+  <a href="http://www.moemamkt.com.br" target="_blank">http://www.moemamkt.com.br</a><br>
   Marketing Trainee – Casual (weekends and holidays)<br>
   
   
@@ -77,7 +77,7 @@ international sports events company or association
  
   Jun 2006 – Sep 2006<br>
   THE ART OF MARKETING, Sao Paulo BRAZIL<br>
-  <a href="http://www.artofmarketing.com">http://www.artofmarketing.com</a> <br>
+  <a href="http://www.artofmarketing.com" target="_blank">http://www.artofmarketing.com</a><br>
   Internship – 12 weeks full-time<br>
   
  
