@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width">
   
 </head>
+  <title>Resume</title>
 <body>
   
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
